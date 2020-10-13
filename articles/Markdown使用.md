@@ -218,6 +218,3 @@ $(document).ready(function () {
    .   英文句点
    !   感叹号
    ```
-
-   
-
